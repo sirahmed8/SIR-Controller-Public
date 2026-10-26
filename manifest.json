@@ -1,0 +1,20 @@
+{
+  "project": "SIR Controller",
+  "title": "SIR Controller 1000Hz Low-Latency Telemetry Hub",
+  "title_ar": "منظومة سير للتحكم بالدراع والحساسية الاحترافية 1000Hz",
+  "version": "1.0.0",
+  "updated_at": "2026-10-26T08:21:00.200179+00:00",
+  "zip_package": {
+    "file_name": "SIR_Controller_Suite.zip",
+    "size_bytes": 19928644,
+    "size_mb": 19.01,
+    "sha256": "af653fbcb6814073499e1da4998b8d34f24a88da5cd2ca006c637139da0613c8",
+    "relative_url": "/downloads/SIR_Controller_Suite.zip"
+  },
+  "main_executable": {
+    "file_name": "SIR Controller.exe",
+    "size_bytes": 22828544,
+    "sha256": "685b16d8a969b193e83dd23e6821c45edbf5c91b19b6b1db88f51beaa70fba64",
+    "relative_url": "/downloads/SIR Controller.exe"
+  }
+}
